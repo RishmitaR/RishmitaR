@@ -19,7 +19,7 @@ Python · TypeScript · JavaScript · SQL · Streamlit · FastAPI · LLMs & AI a
 
 - **M.S., Business Technology & Artificial Intelligence** — UT Austin McCombs, 2027
 - **B.S., Astrophysics** (minors in Math & Computer Science) — Texas A&M University
-- **Google Summer of Code 2026** — [Improving Test Coverage for the TARDIS Plasma Module](https://summerofcode.withgoogle.com/programs/2026/projects/LIZ3ldjS) with the [TARDIS RT Collaboration](https://github.com/tardis-sn/tardis) · [write-up](https://rishmitar.github.io/blog/2026/08/21/Google-Summer-of-Code-2026.html)
+- **Google Summer of Code 2026** — Improving Test Coverage for the TARDIS Plasma Module with the [TARDIS RT Collaboration](https://github.com/tardis-sn/tardis) · [write-up](https://rishmitar.github.io/blog/2026/08/21/Google-Summer-of-Code-2026.html)
 
 ## 📫 Contact
 
