@@ -10,9 +10,9 @@ Python · TypeScript · JavaScript · SQL · Streamlit · FastAPI · LLMs & AI a
 
 ## 📌 Featured projects
 
-- [Album-Per-Year](https://github.com/RishmitaR/Album-Per-Year) — listening-history web app: one favorite album for each year of a user's life
 - [plc-multiagent-demo](https://github.com/RishmitaR/plc-multiagent-demo) — CrewAI multi-agent system that matches physics lab demos to a lecture syllabus (React + TypeScript)
 - [Album-Per-Year-Data-Dashboard](https://github.com/RishmitaR/Album-Per-Year-Data-Dashboard) — Streamlit dashboard visualizing album-per-year listening EDA
+- [Album-Per-Year](https://github.com/RishmitaR/Album-Per-Year) — listening-history web app: one favorite album for each year of a user's life[Album-Per-Year](https://github.com/RishmitaR/Album-Per-Year) — listening-history web app: one favorite album for each year of a user's life
 - [tardis](https://github.com/tardis-sn/tardis) — TARDIS supernova simulation package; GSoC 2026 work on plasma-module test coverage
 
 ## 🎓 Background
